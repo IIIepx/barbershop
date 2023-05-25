@@ -1,17 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T07:36:07.752Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="GsOLcAy1B9YQycZgjgjr" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T07:52:03.593Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="G7VuWFMRhkQR64wxEAHn" version="21.3.3" type="github">
   <diagram name="Страница 1" id="rpw2_41oNAGdYafJ3Hnz">
     <mxGraphModel dx="1434" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HPWNmmtjtHIbuDRkM3RB-1" value="&lt;h2&gt;&lt;i&gt;&lt;u&gt;пробел&lt;/u&gt;&lt;/i&gt; - изменение точки привязки по оси XY&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="60" width="580" height="100" as="geometry" />
+          <mxGeometry x="70" y="60" width="580" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HPWNmmtjtHIbuDRkM3RB-2" value="&lt;h2&gt;&lt;i&gt;&lt;u&gt;tab&lt;/u&gt;&lt;/i&gt; - изменение точки привязки по оси ZY&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="170" width="580" height="100" as="geometry" />
+          <mxGeometry x="70" y="120" width="580" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HPWNmmtjtHIbuDRkM3RB-3" value="&lt;h2&gt;&lt;i&gt;&lt;u&gt;ctrl&lt;/u&gt;&lt;/i&gt; - привязка (магнит) к ближайшей точке&lt;/h2&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;должна быть нажата кнопка автопривязки&lt;/font&gt;&amp;nbsp;&lt;/div&gt;&lt;img alt=&quot;&quot; src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAADSUlEQVQ4jU2SPYhdVRSFv73POffe9zOZZPAnQ35UNI4asRAUDVgKVnYiaCEoKBYmhSJIgviDEBCxsFILUbRIISkEsbBIEUQNKCSKKCRqMkYzGWFm3sy89+49Z2+Ll8LVLtYHi7Xk9Dc/OhiCI4C483+5gOPXXIjugIM4poaRMJSYJstsb60j4mCOiiJwLWo4gDjuIBLoZnhMZp5LIPV2Ev/55Uv27tuNAkEVJQKQ8xQNGXHHzYla0WUwSYAi4qQoiBe6ySqxKROW9uzn9wt/MlpfI0rN0tJtDIYJCVOMDiPSlsCvF5bZGBlFEjsHwh375/Fui5XRlFjE6NrM8Rde4/bUY7kTjrzyLAfvuxVkihJAMpk53njrBN+ffxBnxP0HVjn53qNY2UIYEMUzmjv6Y7irmaNzqNoxTNdAW/AKtEOlIZcFJukRXK7Q2rcwHSM+xm2OWFtLbS2NQW1Tkjie16HtgU5moKB4GFKsm03gATMnTzeJcYLSEh1jZXUFF1Ap9LzDRleYXt2myCbBFZeKkY5J7SbJlELC28z61UukqqNaWCBCxImzeYkEMgEniiAKAUAKSYwUFRBMEi6BmEA14zYhOgEJFQUwm71HNBFiTQgdsx9GVBtKCBQpGI4rxDqgRNyd6ICmGgOMjiyCNgMY7IBSIBjQA5ljLDVFCtAhWggpUuuQLUlEcBp1GoWgkVgUowGtISRQA6kw5rBwA8YA2AIRJEVUAARFMr2e0wZYE2NRC198dALkOujvgcEeRvUSZ/7Yy2/L96K2m/m0RrSL1P0+EgMFRw1Da+fwq09xRQq71Fik4d0Xj/Pz2U1OnYt8fXYfTx45xUZ3iEBh/O93fPzBUUKVkBQxEaIjdMFZvPsAmws9Risj5km0Ww2fvPMVn13sU4Z9Su9xLF2Pb5/m6OGHGKQVkAgWcdFZxZRq5hfnOfrh65zZvYufspB0wM06zw5ugXQTnYyI7Umefuwizz1zI01vFeo+paqhQMwCUldIv0ZSx5vvH+Ovc5d46fm3abnMhp2n3Vjm4J0HOfbyEzx8aEgtl8F6YIlsmayBWA0XmFpCc8QRmmFi/wP38OkPn0PoU7qMxIriRqDD27/JWhCvcVcm3mcqwn+RboFQcU5CHgAAAABJRU5ErkJggg==&quot;&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="280" width="580" height="120" as="geometry" />
+          <mxGeometry x="70" y="180" width="580" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HPWNmmtjtHIbuDRkM3RB-4" value="&lt;h2&gt;&lt;i&gt;&lt;u&gt;v&amp;nbsp;&lt;/u&gt;&lt;/i&gt;- линии вспомогательной геометрии&lt;/h2&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="280" width="580" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HPWNmmtjtHIbuDRkM3RB-5" value="&lt;h2&gt;&lt;i&gt;&lt;u&gt;~&amp;nbsp;&lt;/u&gt;&lt;/i&gt;- вписывание панели в габариты&lt;/h2&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="350" width="580" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HPWNmmtjtHIbuDRkM3RB-6" value="&lt;h2&gt;&lt;i&gt;&lt;u&gt;F6&amp;nbsp;&lt;/u&gt;&lt;/i&gt;- задание координат точки&lt;/h2&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="410" width="580" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HPWNmmtjtHIbuDRkM3RB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HPWNmmtjtHIbuDRkM3RB-3" target="HPWNmmtjtHIbuDRkM3RB-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
