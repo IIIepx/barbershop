@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T07:52:03.593Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="G7VuWFMRhkQR64wxEAHn" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T07:53:27.458Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="eJfMa_YXrsfeOCvGdgo5" version="21.3.3" type="github">
   <diagram name="Страница 1" id="rpw2_41oNAGdYafJ3Hnz">
     <mxGraphModel dx="1434" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="HPWNmmtjtHIbuDRkM3RB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HPWNmmtjtHIbuDRkM3RB-3" target="HPWNmmtjtHIbuDRkM3RB-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HPWNmmtjtHIbuDRkM3RB-8" value="&lt;h2&gt;&lt;i&gt;&lt;u&gt;ctrl-shift-del&amp;nbsp;&lt;/u&gt;&lt;/i&gt;- удаление линий вспомогательной геометрии&lt;/h2&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="470" width="580" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
